@@ -1,6 +1,9 @@
 # SharedPreferencesTest2
 该项目融合了第一行代码中的SharedPreferencesTest 以及后续的记住密码登陆的功能
 
+# 登陆
+![1](https://github.com/tuionf/SharedPreferencesTest2/blob/master/art/1.png)
+
 #笔记
 
 SharedPreferences存储
