@@ -22,3 +22,15 @@ SharedPreferences存储的方法和步骤
 4. 调用commit()方法提交 
 
 相应的获取其存储文件的数据类似
+
+账号密码分别是 tuionf@163.com    123456
+
+# 点击保存数据
+
+会保存SharedPreferences文件，并弹出Toast
+![2](https://github.com/tuionf/SharedPreferencesTest2/blob/master/art/2.png)
+
+# 恢复数据
+点击后，会在上面的EditText上显示出来SharedPreferences文件中保存的数据
+![3](https://github.com/tuionf/SharedPreferencesTest2/blob/master/art/3.png)
+![4](https://github.com/tuionf/SharedPreferencesTest2/blob/master/art/4.png)
